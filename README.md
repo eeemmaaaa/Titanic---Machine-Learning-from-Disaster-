@@ -28,7 +28,7 @@ To capture additional information, several new features were created:
 
 These engineered features help the model better represent social and family-related survival patterns.
 
-## Model Training Validation
+## Model Training & Validation
 The dataset was split into training and validation sets(80/20 split).
 Multiple models were trained and evaluated on the validation set:
 
