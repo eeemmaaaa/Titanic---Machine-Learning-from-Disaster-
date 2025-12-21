@@ -19,7 +19,7 @@ Several preprocessing steps were applied:
 - Encoded categorical variables such as Sex and Embarked into numerical form
 - Dropped the Cabin feature due to excessive missing values
 
-## F E
+## Feature Engineering
 To capture additional information, several new features were created:
 
 - FamilySize: number of family members traveling together
